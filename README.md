@@ -10,7 +10,7 @@ KeepBox is an open-source, repairable vacuum food container system designed to r
 ## Why vacuum
 Lower-oxygen storage can help slow spoilage for chilled foods. The documentation includes clear guidance on safe handling and practical shelf-life limits.
 
-## Key measurable targets (PDS summary)
+## Key measurable targets 
 - Vacuum level: ~−0.5 bar(g) (Δp ≈ 50 kPa)
 - Retention: pressure rise ≤ 2 kPa in 10 min and ≤ 10 kPa in 24 h (vacuum-decay / pressure-rise test)
 - Food contact approach: PP food-contact surfaces; no epoxy/adhesives used in food-contact structure
