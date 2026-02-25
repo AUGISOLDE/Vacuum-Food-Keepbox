@@ -1,23 +1,13 @@
 # Vacuum-Food-Keepbox
 
-KeepBox is an open-source, repairable vacuum food container system designed to reduce food waste and cut reliance on single-use wraps and bags. The project publishes **editable CAD source files** (not just exports) so others can study, modify, manufacture, and share improved versions.
+This product is a **modular vacuum food container system** designed to help extend the freshness of stored foods by reducing oxygen in the container, supporting better storage practice and reducing reliance on single-use wraps and bags.
 
-## What it is (current build)
-- Modular vacuum container: box body + lid + defined gasket/seal path
-- Off-the-shelf silicone one-way valve + pump module (AM395DPV)
-- Key functional parts are **3D-printed food-grade PP5 (polypropylene)** (e.g., lid and pump housing; other printed parts depend on your build)
+The system is built around a **replaceable, upgradable architecture**: the lid, seal path/gasket, one-way valve, and pump module are designed as modules that can be swapped, repaired, and redesigned. All key parts can be modified using the provided **editable CAD source files** (not just exports), making it easy to iterate and develop your own version.
 
-## Why vacuum
-Lower-oxygen storage can help slow spoilage for chilled foods. The documentation includes clear guidance on safe handling and practical shelf-life limits.
+To support replication and customization, we provide a clear **BOM with sourcing** so you can purchase off-the-shelf components directly and adapt the design around what you can access. The repository also includes **assembly instructions** and **user guidance** (operation, maintenance, and safety notes) to help you build and use the system correctly.
 
-## Key measurable targets 
-- Vacuum level: ~−0.5 bar(g) (Δp ≈ 50 kPa)
-- Retention: pressure rise ≤ 2 kPa in 10 min and ≤ 10 kPa in 24 h (vacuum-decay / pressure-rise test)
-- Food contact approach: PP food-contact surfaces; no epoxy/adhesives used in food-contact structure
-- Repairability: replaceable modules using basic tools; reassembly time recorded
-
-## Repo contents
+## What you’ll find in this repo
 - CAD (editable sources + exports)
-- BOM (parts + sourcing)
-- Docs (assembly, maintenance, safety guidance)
+- BOM (parts + sourcing links)
+- Docs (assembly guide, user guide, maintenance & safety)
 - Tests (raw data, plots, pass/fail checks)
